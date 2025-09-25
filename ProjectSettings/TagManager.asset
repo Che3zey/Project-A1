@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Obstacle
+  - Breakable
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - obstacles
+  - background
+  - borders
+  - camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3394450469
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1762935157
+    locked: 0
+  - name: Map
+    uniqueID: 758683907
+    locked: 0
+  - name: Background
+    uniqueID: 1577083243
+    locked: 0
+  m_RenderingLayers:
+  - Default
